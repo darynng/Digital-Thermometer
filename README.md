@@ -40,10 +40,6 @@ Temperature Sensor: LM35
 
 Display: 4-digit multiplexed common-anode 7-segment
 
-### Inputs:
-
 RB0 pushbutton for unit toggle
-
-### Outputs:
 
 LO/MED/HI LEDs on RB5–RB7
